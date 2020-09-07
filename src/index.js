@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom';
 
 import './index.css';
 import App from './App';
-import {DataLayer} from './dataLayer'
-import reducer, {initialState} from './reducer'
+import {DataLayer} from './config/dataLayer'
+import reducer, {initialState} from './config/reducer'
 
 import * as serviceWorker from './serviceWorker';
 
