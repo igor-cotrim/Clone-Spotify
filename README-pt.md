@@ -33,7 +33,7 @@ Usando a api do spotify, fiz um clone usando react. Ele tem uma página de login
 
 ## Como executar ℹ
 
-`` `sh
+```sh
 # Clone este repositório
 $ git clone git@github.com: igor-cotrim / Clone-Spotify
 
@@ -47,7 +47,7 @@ $ yarn install
 $ yarn start
 
 # O aplicativo será aberto na porta: 3000- acesse http: // localhost: 3000
-`` `
+```
 
 ### Pré-requisitos
 Antes de começar, você precisará ter as seguintes ferramentas instaladas em sua máquina: Git. Além disso, é bom ter um editor para trabalhar com código como VSCode
@@ -56,35 +56,32 @@ Antes de começar, você precisará ter as seguintes ferramentas instaladas em s
 
 As seguintes ferramentas foram utilizadas na construção do projeto:
 
-#### SpotifyClone ([React] (https://pt-br.reactjs.org/) + [Javascript] (https://www.javascript.com))
-- [React Dom] (https://pt-br.reactjs.org/docs/react-dom.html)
-- [material-ui] (https://material-ui.com/pt/)
-- [react-scripts] (https://www.npmjs.com/package/react-scripts)
-- [API Spotify] (https://developer.spotify.com/documentation/)
+#### SpotifyClone([React](https://pt-br.reactjs.org/) + [Javascript](https://www.javascript.com))
+- [React Dom](https://pt-br.reactjs.org/docs/react-dom.html)
+- [material-ui](https://material-ui.com/pt/)
+- [react-scripts](https://www.npmjs.com/package/react-scripts)
+- [API Spotify](https://developer.spotify.com/documentation/)
 
 ---
 
 ## Idéias para implementar 📌
 
-- [] reprodutor de música funcional
+- [ ] reprodutor de música funcional
 
 ## Licença 📝
-Este projeto está sob licença [MIT] (https://choosealicense.com/licenses/mit/)
+Este projeto está sob licença [MIT](https://choosealicense.com/licenses/mit/)
 
 ---
 
 ## Autor 🦸
 
 <a href="https://www.linkedin.com/in/igorcotrim/">
- <img style = "border-radius: 50%;" src = "https://avatars2.githubusercontent.com/u/50390408?s=460&u=fa3dad860e7be785755894c2c7f4cbd20ac4b1b0&v=4" width = "100px;" alt = "" />
+ <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/50390408?s=460&u=fa3dad860e7be785755894c2c7f4cbd20ac4b1b0&v=4" width="100px;" alt=""/>
  <br />
-<sub> <b> Igor Cotrim </b> </sub> </a> <a href="https://www.linkedin.com/in/igorcotrim/" title="linkedin"> 😎 </ a >
+ <sub><b>Igor Cotrim</b></sub></a> <a href="https://www.linkedin.com/in/igorcotrim/" title="linkedin">😎</a>
 
 
-Feito com ❤️ por Igor Cotrim 👋🏽 Entre em contato!
+Feito com ❤️ de Igor Cotrim 👋🏽 Entre em contato!
 
-[! [Emblema do Linkedin] (https://img.shields.io/badge/-Igor_Cotrim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorcotrim/)] (https: //www.linkedin.
-com / in / igorcotrim /)
-[! [Selo do Gmail] (https://img.shields.io/badge/-igorxuxicotrim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorxuxicotrim@gmail.com)] (mailto: igorxuxicotrim@gmail.com)
-
----
+[![Linkedin Badge](https://img.shields.io/badge/-Igor_Cotrim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorcotrim/)](https://www.linkedin.com/in/igorcotrim/) 
+[![Gmail Badge](https://img.shields.io/badge/-igorxuxicotrim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorxuxicotrim@gmail.com)](mailto:igorxuxicotrim@gmail.com)
